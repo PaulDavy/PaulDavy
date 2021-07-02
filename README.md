@@ -1,9 +1,14 @@
-### Hi there 👋, my name is Paul Davy
-#### Full stack developer and designer.
-![Full stack developer and designer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- Bannor Image. (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
+# Paul Davy
 My names paul from Ayr, I design and develop websites to keep my skills sharp. I really enjoy learning new languages which currently is React and Emotion, as well as working with WordPress. I'm also trying to strengthen my designing skills for this and seem to have found a love for wireframing. 
 
+## Skills and Experience
+* ⚛ React
+* 💻 HTML5, CSS, JS
+* 🕶 PHP, SQL, PLSQL
+
+## A little aboutme.md
 - 🔭 I’m currently working on Adding more to my portfolio 
 - 🌱 I’m currently learning React, Emotion 
 - 👯 I’m looking to collaborate on Any web design in a freelance OR commercal setting 
